@@ -4,3 +4,9 @@ li:nth-child(odd){
 li:nth-child(even), h1{
     color: red;
 }
+body{
+    background-color: blue;
+}
+a:visited{
+    color: green
+}
